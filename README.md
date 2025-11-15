@@ -48,6 +48,8 @@ Project Files
 You can find the full project files here:
 
 https://drive.google.com/drive/folders/1aTtdJ4JiiSMA4aEico7CA7pVJm4iNVHm
+
+https://www.figma.com/design/le01lAVOecreeXSYagpm4v/Flower-app?node-id=1063-2510&t=DZvLhrw6CONeJerj-1
 ________________________________________
 License
 This project is licensed under the 
