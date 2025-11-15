@@ -57,11 +57,3 @@ ________________________________________
 
 
 
-
-
-
-
-
-https://drive.google.com/drive/folders/1aTtdJ4JiiSMA4aEico7CA7pVJm4iNVHm
-
-
